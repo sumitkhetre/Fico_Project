@@ -11,7 +11,7 @@ create table file1 as select * From backupfile1;
 
 <<<<<<< HEAD
 
-swapnil added 
+swapnil added aniker changes done 
 next added
 =======
 >>>>>>> 299c5122114c606a2b1b73e98d1e24e172b9859e
