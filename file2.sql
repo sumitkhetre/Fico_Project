@@ -1,3 +1,5 @@
 --master code--
-added by pravin
+
+added by pravin code added by sumit in r8
+
 select * from file2;
