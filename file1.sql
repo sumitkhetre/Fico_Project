@@ -9,7 +9,7 @@ delet table file1;
 create table file1 as select * From backupfile1;
 
 
-
+anil changes
 
 
 
