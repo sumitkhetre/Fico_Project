@@ -10,7 +10,7 @@ create table file1 as select * From backupfile1;
 >>>>>>> 3e0045844d01afa299b56b65f1ab23b66e688673
 
 <<<<<<< HEAD
-
+anil next chnage
 swapnil added aniker changes done 
 next added
 =======
